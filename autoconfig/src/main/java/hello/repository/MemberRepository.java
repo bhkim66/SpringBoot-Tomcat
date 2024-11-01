@@ -1,6 +1,6 @@
-package repository;
+package hello.repository;
 
-import entity.Member;
+import hello.entity.Member;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
